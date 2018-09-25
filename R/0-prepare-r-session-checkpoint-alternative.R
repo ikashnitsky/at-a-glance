@@ -40,7 +40,7 @@ ifelse(
 # Now quite a long process starts: "checkpoint" scans through all the scripts in 
 # the project and finds all the packages that should be installed to run the scripts.
 # The packages will be installed precisely as the were on 2018-05-23.
-checkpoint('2018-05-23')
+checkpoint('2018-05-28')
 
 
 # load required packages
